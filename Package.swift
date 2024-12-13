@@ -14,7 +14,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/Tencent-RTC/Professional_SwiftPM.git", .branch("release")),
+        .package(url: "https://github.com/znhyo/Professional_SwiftPM.git", .branch("release")),
         .package(url: "https://github.com/Tencent-RTC/Chat_SDK_SwiftPM.git", from: "8.3.6498")
     ],
     targets: [
