@@ -40,8 +40,6 @@ let package = Package(
                 .linkedFramework("CoreTelephony"),
                 .linkedFramework("CoreMotion"),
                 .linkedFramework("AVFoundation"),
-                .linkedFramework("Accelerate"),
-                .linkedFramework("MetalKit"),
                 .linkedFramework("CoreMedia"),
                 .linkedLibrary("sqlite3.0"),
                 .linkedLibrary("c++"),
