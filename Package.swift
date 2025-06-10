@@ -47,7 +47,6 @@ let package = Package(
                 .linkedFramework("Accelerate"),
                 .linkedFramework("ReplayKit"),
                 .linkedFramework("MetalKit"),
-                .linkedFramework("MobileCoreServices"),
                 .linkedFramework("CoreMedia"),
                 .linkedFramework("MetalPerformanceShaders"),
                 .linkedLibrary("sqlite3.0"),
