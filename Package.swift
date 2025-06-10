@@ -21,8 +21,8 @@ let package = Package(
 
         .binaryTarget(
             name: "RTCRoomEngine",
-            url: "https://liteav.sdk.qcloud.com/app/tuikit/download/release/3.0/RTCRoomEngine_iOS_3.0.3.701_SDK.zip",
-            checksum: "840364997190e190c4a401d7fc410e741bb629fd111c7ba539e08cd55ca0f3a6"
+            url: "https://liteav.sdk.qcloud.com/app/tuikit/download/release/3.1/RTCRoomEngine_iOS_3.1.0.824_SDK.zip",
+            checksum: "9831870232abef1002ea12e885544e5ef7ae64b9f752989af253097ecd6dff11"
         ),
         .target(
             name: "RoomEngine",
