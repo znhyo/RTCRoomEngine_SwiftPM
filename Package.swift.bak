@@ -41,10 +41,8 @@ let package = Package(
                 .linkedFramework("CoreMotion"),
                 .linkedFramework("AVFoundation"),
                 .linkedFramework("Accelerate"),
-                .linkedFramework("ReplayKit"),
                 .linkedFramework("MetalKit"),
                 .linkedFramework("CoreMedia"),
-                .linkedFramework("MetalPerformanceShaders"),
                 .linkedLibrary("sqlite3.0"),
                 .linkedLibrary("c++"),
                 .linkedLibrary("resolv")
